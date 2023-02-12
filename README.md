@@ -9,11 +9,11 @@
 ![backend](https://user-images.githubusercontent.com/75328768/218297374-27bbb956-4ef4-447a-a4f9-7b3c4186fab1.PNG)
 ## FrontendDevelopment
 ![frontend](https://user-images.githubusercontent.com/75328768/218297384-ff86e4e3-a995-4c25-955a-58882871e8ba.PNG)
-## FullStack
+## FullStack Development
 ![fullstack](https://user-images.githubusercontent.com/75328768/218297387-58070107-eb07-4dfc-ad26-0df544fe6cc3.PNG)
 ## BlockChain Development
 ![blockchain](https://user-images.githubusercontent.com/75328768/218297375-6659daa9-720f-4f69-84e3-5bf205af1361.PNG)
 ## Ethical Hacking 
  ![ethical_hacking](https://user-images.githubusercontent.com/75328768/218297524-a384b318-6d7d-41c9-8a33-ec7e55c4619a.PNG)
-Development
+
 
