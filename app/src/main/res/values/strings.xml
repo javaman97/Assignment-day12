@@ -22,4 +22,5 @@ Kotlin is a statically typed programming language that can be compiled into Java
     <string name="reverseengineering">Reverse engineering is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little insight into exactly how it does so.</string>
     <string name="cryptography">Cryptography is technique of securing information and communications through use of codes so that only those person for whom the information is intended can understand it and process it.</string>
     <string name="encryption">Encryption is a way of scrambling data so that only authorized parties can understand the information. In technical terms, it is the process of converting human-readable plaintext to incomprehensible text, also known as ciphertext</string>
+    <string name="Headline">WELCOME TO JAVAMAN KNOWLEDGE HUB</string>
 </resources>
